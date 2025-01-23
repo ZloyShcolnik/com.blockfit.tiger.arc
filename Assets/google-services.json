@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298287133078",
+    "project_id": "blockfit-tiger-arc",
+    "storage_bucket": "blockfit-tiger-arc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298287133078:android:0c445771237d3075b42db7",
+        "android_client_info": {
+          "package_name": "com.blockfit.tiger.arc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmPsgHbEDtiaXu9khGA70YgP1lV7NY8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
